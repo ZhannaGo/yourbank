@@ -10,6 +10,13 @@ import logo from './logo.svg';
 import Home from './components/home';
 import NavBar from './components/navbar';
 import Spa from "./components/index"
+import Balance from "./components/balance"
+import AllData from "./components/alldata"
+import Card from "./components/context"
+import CreateAccount from './components/createaccount';
+import Deposit from "./components/deposit";
+import Home from "./components/home"
+import Withdraw from './components/withdraw';
 //import Login from './components/Login';
 
 import './App.css';
